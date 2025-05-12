@@ -1,5 +1,11 @@
 # ArchiTalk | 자동 다이어그램 에이전트
 
+## 🏀 Repos
+* GitOps : https://github.com/kt-ktk-03/final-gitops
+* Frontend : https://github.com/kt-ktk-03/final-front
+* Backend : https://github.com/kt-ktk-03/finalmainserver
+* Flask : https://github.com/kt-ktk-03/final-agent-flask-server
+
 ### 🧠 목적
 사용자의 자연어 입력을 기반으로 다이어그램을 생성해주는 인공지능 기반 에이전트를 개발합니다.
 ### 💡 주요 기능
